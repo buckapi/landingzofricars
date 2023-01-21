@@ -1837,11 +1837,11 @@ box-shadow: 1px 4px 8px -2px rgba(0,0,0,0.5);
 }
 
 .newsletter_box .section_title {
-    width: 45%;
+    width: 90%;
 }
 
 .newsletter_box form {
-    width: 60%;
+    width: 10%;
 }
 
 /* newsletter heading h2 */
