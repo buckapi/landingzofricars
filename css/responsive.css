@@ -160,7 +160,7 @@
     /* download app section */
     .free_app_section .container .free_app_inner {padding: 20px 15px;}
     .free_app_section .container .free_app_inner .free_img img {transform: scale(.7);}
-    .free_app_section .container .free_app_inner .free_img img:last-child {margin-left: -180px;}
+    .free_app_section .container .free_app_inner .free_img img:last-child {margin-left: -120px;}
     .free_app_section .container .free_app_inner .free_text .app_btn li a {padding: 10px 20px;}
 
     /* latest story section */
